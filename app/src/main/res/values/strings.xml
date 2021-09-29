@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codex Dictionary</string>
+    <string name="edit_text_hint">Enter a word…</string>
+    <string name="find_button_label">Find</string>
+    <string name="meaning_textview_label">Meaning</string>
+    <string name="example_textview_label">Example</string>
+</resources>
