@@ -76,7 +76,6 @@ class DictionaryViewModel : ViewModel(){
             try{
                 var resultWord = getWordsDeferred.await()
                 _dictionaryWord.value = resultWord
-                Log.i("DictionaryViewModel",resultWord.toString())
                 _word.value = resultWord[0].word
 
 
