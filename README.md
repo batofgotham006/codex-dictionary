@@ -1,7 +1,7 @@
 # Codex Dictionary
 A dictionary android app that fetches a list of meanings along with examples of their usages from the web for a user-entered word.
 
-#Screenshots:
+# Screenshots:
 
 ![Home](https://user-images.githubusercontent.com/82951524/148633989-f3667fd9-0df6-4145-9edc-5df49bdfed3f.PNG)
 ![WordEntered](https://user-images.githubusercontent.com/82951524/148633995-eb5390c1-fd45-4770-821b-319ff21cbc42.PNG)
