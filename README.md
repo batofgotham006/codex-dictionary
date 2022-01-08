@@ -3,8 +3,8 @@ A dictionary android app that fetches a list of meanings along with examples of 
 
 # Screenshots
 
-![Home](https://user-images.githubusercontent.com/82951524/148633989-f3667fd9-0df6-4145-9edc-5df49bdfed3f.PNG)    ![WordEntered](https://user-images.githubusercontent.com/82951524/148633995-eb5390c1-fd45-4770-821b-319ff21cbc42.PNG)
-
-![ResultsFetched](https://user-images.githubusercontent.com/82951524/148633998-c59c3e5a-3e02-4f82-b94d-012ded982665.PNG)    ![ResultsFetched2](https://user-images.githubusercontent.com/82951524/148633999-a22a313d-18ef-4139-96bb-3c92396e2e14.PNG)
-
-![ResultsFetched3](https://user-images.githubusercontent.com/82951524/148634001-b8fa2b10-32e0-4e15-b3f0-a679c07a07cc.PNG)
+![Home](https://user-images.githubusercontent.com/82951524/148634295-f6e92ff2-14c3-445a-9c68-393e65f80c7e.PNG)
+![WordEntered](https://user-images.githubusercontent.com/82951524/148634298-9bb32ade-a3d6-4863-b08b-b3d32247b71d.PNG)
+![ResultsFetched](https://user-images.githubusercontent.com/82951524/148634299-f078910a-6770-4e80-ada0-a5c0afab72ca.PNG)
+![ResultsFetched2](https://user-images.githubusercontent.com/82951524/148634304-b869e9cf-26cc-45f9-8555-76808ac2c2e1.PNG)
+![ResultsFetched3](https://user-images.githubusercontent.com/82951524/148634306-9f8b3f3a-e911-4980-91ce-affdc595f834.PNG)
