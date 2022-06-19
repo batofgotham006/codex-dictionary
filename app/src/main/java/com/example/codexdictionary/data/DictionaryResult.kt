@@ -1,4 +1,4 @@
-package com.example.codexdictionary.domain
+package com.example.codexdictionary.data
 
 data class DictionaryResult(
     val meaning : String,

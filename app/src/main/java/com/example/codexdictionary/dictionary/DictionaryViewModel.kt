@@ -1,14 +1,13 @@
 package com.example.codexdictionary.dictionary
 
-import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.codexdictionary.domain.DictionaryResult
-import com.example.codexdictionary.network.Definition
+import com.example.codexdictionary.data.DictionaryResult
+import com.example.codexdictionary.data.Definition
 import com.example.codexdictionary.network.DictionaryApi
-import com.example.codexdictionary.network.DictionaryWord
-import com.example.codexdictionary.network.Meaning
+import com.example.codexdictionary.data.DictionaryWord
+import com.example.codexdictionary.data.Meaning
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
@@ -72,9 +71,9 @@ class DictionaryViewModel : ViewModel(){
 
     private fun getDictionaryWord(queriedWord : String){
         coroutineScope.launch{
-            var getWordsDeferred = DictionaryApi.retrofitService.getWord(queriedWord)
+            val getWordsDeferred = DictionaryApi.retrofitService.getWord(queriedWord)
             try{
-                var resultWord = getWordsDeferred.await()
+                val resultWord = getWordsDeferred.await()
                 _dictionaryWord.value = resultWord
                 _word.value = resultWord[0].word
 

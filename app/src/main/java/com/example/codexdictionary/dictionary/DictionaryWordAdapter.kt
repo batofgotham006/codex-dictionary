@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.DiffUtil
 import com.example.codexdictionary.databinding.MeaningItemViewBinding
-import com.example.codexdictionary.domain.DictionaryResult
+import com.example.codexdictionary.data.DictionaryResult
 
 class DictionaryWordAdapter : ListAdapter<DictionaryResult,DictionaryWordAdapter.MeaningViewHolder>(DiffCallback) {
 

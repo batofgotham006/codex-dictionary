@@ -1,4 +1,4 @@
-package com.example.codexdictionary.network
+package com.example.codexdictionary.data
 
 
 data class DictionaryWord(

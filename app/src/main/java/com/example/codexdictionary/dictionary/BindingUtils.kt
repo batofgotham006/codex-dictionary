@@ -1,11 +1,10 @@
 package com.example.codexdictionary.dictionary
 
 import android.annotation.SuppressLint
-import android.util.Log
 import android.widget.TextView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.codexdictionary.domain.DictionaryResult
+import com.example.codexdictionary.data.DictionaryResult
 
 @SuppressLint("NotifyDataSetChanged")
 @BindingAdapter("listData")
