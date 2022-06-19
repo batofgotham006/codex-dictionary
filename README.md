@@ -10,3 +10,6 @@ A dictionary android app that fetches a list of meanings along with examples of 
 ![ResultsFetched2](https://user-images.githubusercontent.com/82951524/148634304-b869e9cf-26cc-45f9-8555-76808ac2c2e1.PNG)
 
 ![ResultsFetched3](https://user-images.githubusercontent.com/82951524/148634306-9f8b3f3a-e911-4980-91ce-affdc595f834.PNG)
+
+# Note:
+The public API used in this application is deactivated. Therefore, this app no longer fetches results from the internet. This will be fixed in a future update.
